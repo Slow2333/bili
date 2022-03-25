@@ -2,7 +2,7 @@
 
 # shellcheck disable=SC2188
 <<'COMMENT'
-cron: 59 17 * * *
+cron: 00 08 * * *
 new Env('Bilibili 助手');
 COMMENT
 
